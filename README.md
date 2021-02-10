@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/nataliagoncalves-ai/">
-  <img src="" alt="Banner Profile" width="100%" title="Hello there🏾">
+  <img src="https://github.com/ncgc/ncgc/blob/main//programming_girl.gif" alt="Banner Profile" width="100%" title="Hello there">
  </a>
 </p>
 
@@ -11,31 +11,33 @@
 
 ------------------
 
-<h2 style="color:Tomato;">About me</h2><br>
+<h2 style="color:#92E4C6;">About me</h2>
+<br>
 
-- 🤜🤛🏼 I am always willing to help other people, and I learn a lot in the process.<br>
-- 📚    I'm always learning a lot of things
+- 🤜🤛🏼 I am always willing to help other people
+- 📚    I really like to learn and explore new things
 - 🚀    I’m looking to collaborate on open-source projects
 
 
-<h2>My repositories</h2><br>
+<h2 style="color:#92E4C6;">My repositories</h2>
+<br>
+
 <p> Most of my projects in github is outdated, unfinished or just ugly.
   One of my new year's resolution (2021) is not only to make these old projects more organized and presentable, but also create new ones.</p>
-<p> My labels follow the pattern {base_label} [{subject_labels}] <p>
-<p>These are my base labels and their meaning</p>
+<p> My labels follow the pattern <strong>{base_label} [{subject_labels}] </strong> <p>
+<p>These are my <strong>base labels</strong> and their meaning</p>
+
+ <img src="https://github.com/ncgc/ncgc/blob/main//project_tags.png" alt="base labels" width="350px" >
+
+
+<h2 style="color:#92E4C6;">Find me on the web 🌎:</h2>
+
+💼 connecting and sharing professional updates on <a href="https://www.linkedin.com/in/nataliagoncalves-ai/">LinkedIn</a> or Send me an  <a href="mailto: natalia.datascience@gmail.com"> Email </a></p>
 
 <hr>
 
-<dl>
-  <dt>#study</dt> 🔎 Check from time to time how to do something
-  <dt>#<{course_name}></dt> ✏️ It was created from a bootcamp, internet, ... that I copy. Those will have a original branch with the copied version and the main with my own.
-  <dt>#project</dt>🧬 All me
- </dl>
+ <img src="https://github.com/ncgc/ncgc/blob/main//fearless_girl.png" alt="base labels" width="40px" align="left" HSPACE=20 >
+<p style="text-align:center;"><i>"Wisdom is not a product of schooling but of the lifelong attempt to acquire it"</i><p>
 
-<hr>
+<p style="font-size:70%;text-align:center;background-color:#9C85C0"> @by Nati 2021</p>
 
-<h4>Find me on the web 🌎:</h4>
-
-💼 connecting and sharing professional updates on <a href="https://www.linkedin.com/in/nataliagoncalves-ai/">LinkedIn</a><br>
-
-<p>or Send me an  <a href="mailto:natalia.datascience@gmail.com">Email 💌</a></p>
