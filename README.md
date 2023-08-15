@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncgc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ncgc&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=ncgc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="300" src="http://github-readme-streak-stats.herokuapp.com?user=ncgc&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
