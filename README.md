@@ -1,40 +1,10 @@
-### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ncgc&color=yellow" alt="Profile views" /> </p>  
+<h1 align="center" >Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
 <p align="center">
-
-  <img align="left" style="float: left" src="https://github.com/ncgc/ncgc/blob/main//programming_girl.gif" alt="Banner Profile" height="350em" title="Hello there">
-  <div align="left">
-   
-   <h2 style="color:#92E4C6;">About me</h2>
-   <div align="left">
- 
-  <a href="mailto:natalia.datascience@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/nataliagoncalves-ai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
-   <br>
-   
-    🔥 Backend Developer with Ruby on Rails
-   
-    💻 I'm currently working at Grafeno
-   
-    🗺️ I'm organizing my portfolio (soon available)
-   
-    🧑‍🤝‍🧑 I'm always willing to help other people
-   
-    🤿 Currently studing RoR, Javascript and React
- 
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFD700&size=22&center=true&lines=Welcome+to+my+GitHub+profile;Happy+to+see+you+here;Feel+free+to+look+around;Reach+me+out+if+you+need+me;Have+a+great+day"></a>
+  <img align="center" src="https://github.com/ncgc/ncgc/blob/main//programming_girl.gif" alt="Banner Profile" width="500" title="Hello there">
 </p>
-
-</br>
-
-<div align="center">
-  <a href="https://github.com/ncgc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncgc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <br/>
 
@@ -58,5 +28,7 @@
 <br/>
 
 <div align="center">
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ncgc&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncgc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ncgc&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
+
